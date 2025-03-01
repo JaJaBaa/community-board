@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif](https://s1.ezgif.com/tmp/ezgif-10a03212f9a1ba.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://s1.ezgif.com/tmp/ezgif-10a03212f9a1ba.gif](https://s1.ezgif.com/tmp/ezgif-10a03212f9a1ba.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
